@@ -1,4 +1,4 @@
-package com.nayan.code.assessments.may_2020;
+package code.assessments.may_2020;
 
 import java.util.ArrayList;
 import java.util.Arrays;

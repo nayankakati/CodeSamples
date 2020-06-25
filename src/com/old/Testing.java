@@ -1,4 +1,4 @@
-package com.old;
+package old;
 
 public class Testing {
     

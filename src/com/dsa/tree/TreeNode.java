@@ -1,4 +1,4 @@
-package com.dsa.tree;
+package dsa.tree;
 
 /**
  * Created by nayan.kakati on 6/27/18.

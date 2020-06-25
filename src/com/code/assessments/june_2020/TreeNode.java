@@ -1,4 +1,4 @@
-package com.nayan.code.assessments.june_2020;
+package code.assessments.june_2020;
 
 public class TreeNode {
     TreeNode left;

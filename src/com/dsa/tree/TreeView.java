@@ -1,4 +1,4 @@
-package com.dsa.tree;
+package dsa.tree;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package com.nayan.code.streams;
+package code.streams;
 
 import java.util.*;
 import java.util.stream.Collectors;

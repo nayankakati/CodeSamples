@@ -1,4 +1,4 @@
-package com.newTasks;
+package dsa.tree;
 
 public class BinaryTreeAlgos {
 

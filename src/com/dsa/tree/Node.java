@@ -1,4 +1,4 @@
-package com.newTasks;
+package dsa.tree;
 
 /**
  * Created by nayan.kakati on 2/19/18.

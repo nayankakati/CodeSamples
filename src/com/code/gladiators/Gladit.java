@@ -1,4 +1,5 @@
-package com.code.gladiators;
+/*
+package code.gladiators;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -12,9 +13,11 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 import javafx.util.Pair;
 
+*/
 /**
  * Created by nayan.kakati on 5/1/18.
- */
+ *//*
+
 public class Gladit {
 	// 1. store the vertices in an array
 	// 2. calculate if there is a path between the paths
@@ -114,3 +117,4 @@ public class Gladit {
 		}
 	}
 }
+*/

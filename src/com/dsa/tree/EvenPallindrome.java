@@ -1,4 +1,4 @@
-package com.newTasks;
+package dsa.tree;
 
 import java.util.HashMap;
 import java.util.Map;

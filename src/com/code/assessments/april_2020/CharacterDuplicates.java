@@ -1,4 +1,4 @@
-package com.nayan.code.assessments.april_2020;
+package code.assessments.april_2020;
 
 
 /**

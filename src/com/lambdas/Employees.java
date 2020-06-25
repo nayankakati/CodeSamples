@@ -1,4 +1,4 @@
-package com.lambdas;
+package lambdas;
 
 /**
  * Created by nayan.kakati on 4/23/18.

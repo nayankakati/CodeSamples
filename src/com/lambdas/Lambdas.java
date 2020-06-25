@@ -1,4 +1,4 @@
-package com.lambdas;
+package lambdas;
 
 import java.util.ArrayList;
 import java.util.Collections;
